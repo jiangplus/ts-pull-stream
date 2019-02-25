@@ -1,0 +1,6 @@
+{
+    "extends": "../lib/tsconfig.json",
+    "types": [
+        "node"
+    ]
+}
